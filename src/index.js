@@ -14,7 +14,7 @@ function Page(){
         />
 )})
   return(
-    <div>
+    <div className='bg-white dark:bg-gray-700'>
       <div className="sticky top-0 z-40">
       <Navbar />
       </div>
