@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+#logoName{
+    font-family: 'Titan One', cursive;
+}
+
+#cardImage{
+    width: 200px;
+}
