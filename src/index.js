@@ -20,10 +20,8 @@ function Page(){
       </div>
       <div className='relative px-2'>
       <Hero />
-      <div className="p-5 flex overflow-x-auto m-5 border-2 rounded-lg drop-shadow-lg">
-        <div className='flex-none items-center justify-center flex-grow'>
+      <div className="p-5 flex items-center justify-center flex-wrap m-5 border-2 rounded-lg drop-shadow-lg">
           {cardElements}
-        </div>
       </div>
       </div>
     </div>
